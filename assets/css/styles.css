@@ -83,7 +83,9 @@ img {
 }
 
 
-
+.bold {
+  font-weight: 700;
+}
 
 
 /* .content {
